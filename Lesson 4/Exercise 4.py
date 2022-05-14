@@ -1,0 +1,5 @@
+r = int(input())
+k = int(input())
+n = int(input())
+
+print(r * n + (k * n // 100) + k * n % 100)
